@@ -39,6 +39,7 @@ airflow_docker_etl_project/
 ├── README.md
 
 🖼️ Screenshot
+- View the Screenshot.png for working Airflow DAG.
 
 🗃️ Sample Table Schema
 
